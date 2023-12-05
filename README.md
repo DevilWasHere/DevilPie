@@ -1,2 +1,2 @@
-# DevilCake Apple App
-This will be my first app
+# DevilPie iOS App
+This is my first app
