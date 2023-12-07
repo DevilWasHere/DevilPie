@@ -6,5 +6,6 @@ This is my first app
 
 # Screenshots
 
-<img src="src/mediamodifier_image.png" width="180"/>
+![image](https://github.com/DevilWasHere/DevilPie/assets/151879540/985e6501-8d90-47ad-8251-2bac58c86c5a)
+
 
