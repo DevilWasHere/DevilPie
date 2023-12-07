@@ -6,3 +6,5 @@ This is my first app
 
 # Screenshots
 
+<img src="src/mediamodifier_image.png" width="180"/>
+
