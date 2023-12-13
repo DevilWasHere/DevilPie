@@ -10,6 +10,6 @@ My first app<br>
 
 # Screenshots
 
-![image](https://github.com/DevilWasHere/DevilPie/assets/151879540/985e6501-8d90-47ad-8251-2bac58c86c5a)
+![image](https://devilwashere.github.io/PNG20%image.png)
 
 
