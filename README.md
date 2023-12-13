@@ -4,7 +4,7 @@ My first app<br>
 -Gonna convert this to swift or remake this better in obj-c again<br>
 -Added Images<br>
 -Used Color Gradiants<br>
-# Download .ipa on my Website
+# Download Latest .ipa
 https://devilwashere.github.io/DevilPieDownload.html
 
 
