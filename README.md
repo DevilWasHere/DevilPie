@@ -1,5 +1,11 @@
 # DevilPie iOS App
-This is my first app
+My first app
+-Buttons test
+-Gonna convert this to swift or remake this better in obj-c again
+-Added Images
+-Used Color Gradiants
+
+
 
 
 # Screenshots
