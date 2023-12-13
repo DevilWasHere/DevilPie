@@ -5,7 +5,7 @@ My first app<br>
 -Added Images<br>
 -Used Color Gradiants<br>
 # Download .ipa on my Website
-![link](https://devilwashere.github.io/DevilPieDownload.html)
+https://devilwashere.github.io/DevilPieDownload.html
 
 
 # Screenshots
