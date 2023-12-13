@@ -10,6 +10,6 @@ My first app<br>
 
 # Screenshots
 
-![image]([https://devilwashere.github.io/DevilPieScreenShot.png])
+![image](https://devilwashere.github.io/DevilPieScreenShot.png)
 
 
